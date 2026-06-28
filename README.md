@@ -66,3 +66,7 @@ These are the values most likely to drift if Mekanism/Advanced Peripherals is up
 - The chemical/fluid result's amount field (`count`, confirmed for this version — earlier versions used `amount`).
 - `fusionReactorLogicAdapter.getProductionRate()` (some versions expose `getProduction()` instead).
 - All percentage getters (`getDamagePercent`, `get*FilledPercentage`) return a `0–1` fraction, not `0–100`.
+
+<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/c6d3ef07-4259-4297-9bf9-dbe1d26437c7" />
+<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/51df5d88-2e55-44ed-a350-a64af5108f93" />
+<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/bdfad215-3eb0-43c7-80db-d7a413729ddc" />
